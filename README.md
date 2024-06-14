@@ -16,6 +16,8 @@ Style.css
 ![Screenshot 2024-06-14 183831](https://github.com/Ambika2024/mtm6302-capstone-Ambika2024/assets/145181223/a2139e1f-bbcc-43a7-93c3-e82ba34b4d82)
 Output:
 ![Screenshot 2024-06-14 194459](https://github.com/Ambika2024/mtm6302-capstone-Ambika2024/assets/145181223/a463a20e-027d-48b7-abf9-61c60512d352)
+![Screenshot 2024-06-14 195716](https://github.com/Ambika2024/mtm6302-capstone-Ambika2024/assets/145181223/541b1bd2-f85e-4007-809d-0528002b286b)
+
 
 
 
